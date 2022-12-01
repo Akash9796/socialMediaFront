@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/socialMediaFront/static/css/main.d0ca723d.css",
+    "main.js": "/socialMediaFront/static/js/main.a5c3d968.js",
+    "index.html": "/socialMediaFront/index.html",
+    "main.d0ca723d.css.map": "/socialMediaFront/static/css/main.d0ca723d.css.map",
+    "main.a5c3d968.js.map": "/socialMediaFront/static/js/main.a5c3d968.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ca723d.css",
+    "static/js/main.a5c3d968.js"
+  ]
+}
