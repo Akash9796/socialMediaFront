@@ -28,7 +28,7 @@ function App() {
   const { isAuthenticated } = useSelector((state) => state.user);
 
   return (
-    <Router basename="/socialmedia">
+    <Router>
       {isAuthenticated && <Header/>}
 
       <Routes>
