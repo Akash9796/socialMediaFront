@@ -46,6 +46,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://socialmediaback.onrender.com"
-
+  "proxy": "https://socialmediaback.onrender.com",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
